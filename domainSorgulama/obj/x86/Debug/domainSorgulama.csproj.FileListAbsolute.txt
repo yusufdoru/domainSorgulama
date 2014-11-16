@@ -1,0 +1,13 @@
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\bin\Debug\domainSorgulama.exe
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\bin\Debug\domainSorgulama.pdb
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\MainWindow.baml
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\MainWindow.g.cs
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\App.g.cs
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\domainSorgulama_MarkupCompile.cache
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\domainSorgulama.g.resources
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\domainSorgulama.Properties.Resources.resources
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\domainSorgulama.exe
+D:\PROGRAMLAR\OYUNLAR\masaüstü\YAZILIM\Projeler\domainSorgulama\domainSorgulama\obj\x86\Debug\domainSorgulama.pdb

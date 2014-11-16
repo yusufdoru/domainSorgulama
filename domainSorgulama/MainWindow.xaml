@@ -1,0 +1,11 @@
+﻿<Window x:Class="domainSorgulama.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Domain Sorgulama" Height="350" Width="525" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="58,12,0,0" Name="txtDomain" VerticalAlignment="Top" Width="314" />
+        <Button Content="ARA" Height="23" HorizontalAlignment="Left" Margin="389,12,0,0" Name="btnAra" VerticalAlignment="Top" Width="91" Click="button1_Click" />
+        <Label Height="242" HorizontalAlignment="Left" Margin="12,58,0,0" Name="lblSonuc" VerticalAlignment="Top" Width="479" FontSize="25" FontWeight="Bold" HorizontalContentAlignment="Center" />
+        <Label Content="www." Height="28" HorizontalAlignment="Left" Margin="14,10,0,0" Name="label1" VerticalAlignment="Top" />
+    </Grid>
+</Window>
